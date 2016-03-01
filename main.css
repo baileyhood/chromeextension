@@ -1,3 +1,15 @@
 #profile-pic {
-  width: 250px;
+  width: 190px;
+  margin: 15px;
+}
+
+.inactive {
+  display: none;
+}
+
+h5 {
+  font-size: 1.5em;
+}
+h6 {
+  font-size: 1.3em;
 }
